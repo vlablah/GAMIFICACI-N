@@ -1,0 +1,6 @@
+{
+  "name": "Laboratorio de Análisis Energético",
+  "description": "Objeto de aprendizaje interactivo gamificado sobre energía cinética, teorema trabajo-energía y conservación de la energía mecánica para estudiantes de Física.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
